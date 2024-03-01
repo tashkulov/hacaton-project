@@ -1,9 +1,10 @@
 import Header from "../2widgets/header/Header.jsx";
+import ResponsiveAppBar from "../2widgets/header/Header.jsx";
 
 function App() {
 
   return (
-    <Header/>
+    <ResponsiveAppBar/>
 
 
   )
